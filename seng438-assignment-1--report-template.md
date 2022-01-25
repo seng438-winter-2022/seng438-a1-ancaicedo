@@ -53,12 +53,12 @@ As soon as report was submitted we had our partner double check our formats for 
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+Text…..Write stuff here...
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+The lack of format for the exploratory testing was hard to report and keep track of. Although exploratory testing proved to be more effective at finding more bugs, the issues with keeping track of them came up a lot. This problem was remedied by submitting the defect report as soon as we found the defect. We learned that while manual scripted testing takes more time to set up, it streamlines testing process and allows for easier documentation. 
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+We thought that the submission through Gihub for a formal report is not suitable. Considering the limitations on spellchecking, formatting etc. 
