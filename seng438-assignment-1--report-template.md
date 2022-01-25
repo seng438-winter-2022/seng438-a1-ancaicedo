@@ -2,13 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#2:       |   |
 |-----------------|---|
 | Student Names:  |  Andres Caicedo |
 |                 |  Evyn Rissling |
 |                 |  Kyle Hasan |
 |                 |  John Abo |
-|                 |   |
 
 **Table of Contents**
 
